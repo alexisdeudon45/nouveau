@@ -1,0 +1,7 @@
+anthropic==0.96.0
+huggingface_hub==1.11.0
+numpy==1.26.3
+pandas==2.3.3
+PyMuPDF==1.27.2.2
+python-dotenv==1.2.2
+python-jobspy==1.1.82
